@@ -1,0 +1,1 @@
+"""Casting workstation application package."""

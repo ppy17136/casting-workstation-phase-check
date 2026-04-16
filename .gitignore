@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Build and release outputs
+dist/
+release/
+build/
+build/output/
+*.spec.bak
+bridge/**/bin/
+bridge/**/obj/
+
+# Local app data and generated runtime data
+artifacts/*
+!artifacts/demo_case.json
+!artifacts/demo_materials_manifest.md
+!artifacts/demo_workflow_summary.json
+!artifacts/demo_workflow_summary.md
+!artifacts/showcase/
+!artifacts/showcase/**
+!artifacts/walkthrough/
+!artifacts/walkthrough/**
+artifacts/tmp/
+artifacts/generated/
+artifacts/final_bundle/
+*.db
+*.sqlite
+*.sqlite3
+
+# User-local project outputs
+generated_docs/
+generated_exports/
+*.zip
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
