@@ -4,7 +4,7 @@
 
 ### 推荐短描述
 
-砂型铸造工艺图—工艺卡—仿真校核辅助工作站原型，服务大学生创新训练项目阶段检查与典型件成果展示。
+砂型铸造工艺图—工艺卡—仿真校核辅助工作站原型，服务大学生创新训练项目展示与典型件成果整理。
 
 ### 备用短描述
 
@@ -31,21 +31,21 @@
 
 ### 推荐版本
 
-`feat: align casting workstation with round-cover phase-check workflow`
+`feat: align casting workstation with round-cover project showcase workflow`
 
 ### 中文说明版
 
-将软件原型统一到圆盖案例阶段检查主线，补充 README、演示数据、工艺卡/质检清单输出和展示资产。
+将软件原型统一到圆盖案例项目展示主线，补充 README、演示数据、工艺卡/质检清单输出和展示资产。
 
 ## 5. 仓库发布说明（Release / Description）建议
 
 ### 中文版
 
-本次版本主要用于大学生创新训练项目阶段检查展示。软件原型已统一到圆盖铝合金件演示主线，支持项目建档、工艺方案管理、参数计算、仿真结果整理、工艺卡与质检清单生成、阶段成果包导出，并附带 GitHub 与 PPT 可直接复用的展示图片资产。
+本次版本主要用于大学生创新训练项目展示与阶段成果整理。软件原型已统一到圆盖铝合金件演示主线，支持项目建档、工艺方案管理、参数计算、仿真结果整理、工艺卡与质检清单生成、阶段成果包导出，并附带 GitHub 与 PPT 可直接复用的展示图片资产。
 
 ### 英文简版
 
-This release aligns the desktop prototype with the round-cover casting case used in the project phase-check. It includes project/part management, process scheme tracking, parameter calculation, simulation result organization, process card and checklist export, plus GitHub-ready showcase assets.
+This release aligns the desktop prototype with the round-cover casting case used in the project showcase. It includes project and part management, process scheme tracking, parameter calculation, simulation result organization, process card and checklist export, plus GitHub-ready showcase assets.
 
 ## 6. 上传时的仓库首页结构建议
 
